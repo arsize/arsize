@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [arsize!](http://arsizes.com/) 
+### Hey 👋🏽, I'm [Arsize!](http://arsizes.com/) 
 
 <br/>
 
@@ -11,10 +11,10 @@
 <a href="https://twitter.com/arsize11">
   <img align="left" alt="arsize | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-
 <br />
 
 Hi, I'm arsize, a web front-end developer 🚀 from China
+<br />
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 

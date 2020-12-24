@@ -1,5 +1,6 @@
 ### Hey 👋🏽, I'm [Arsize!](http://arsizes.com/)
-
+<br />
+a web front-end developer and I am glad to meet you!
 <br />
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />

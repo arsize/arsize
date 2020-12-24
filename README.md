@@ -13,7 +13,7 @@ A web front-end Developer 🚀 from China and I am glad to meet you!
 **Talking about Personal Stuffs:**
 
 - 🌱 I’m currently learning Rust/Flutter.
-- 😜 I'm focusing on front-end and any other repos.
+- 😜 focusing on front-end and any other repos.
 
 ### 📮 Other
 

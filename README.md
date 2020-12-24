@@ -7,15 +7,13 @@ A web front-end Developer 🚀 from China and I am glad to meet you!
 ### 📝 Worked language
 
 - ✅ JavaScript / TypeScript / ...
-- ✅ UNI-App / Flutter / ...
 - ✅ Vue.js / React.js / ...
 - ✅ Node.js / Python / ...
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning Rust/C#.
+- 🌱 I’m currently learning Rust/Flutter.
 - 😜 I'm focusing on front-end and any other repos.
-- 💬 Ask me about anything, I am happy to help.
 
 ### 📮 Other
 

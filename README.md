@@ -17,7 +17,7 @@ A web front-end Developer 🚀 from China and I am glad to meet you!
 - 😜 I'm focusing on front-end and any other repos.
 - 💬 Ask me about anything, I am happy to help.
 
-### 🤪 Other
+### 📮 Other
 
 [📌 My Blog - 庭树](http://arsizes.com/)
 

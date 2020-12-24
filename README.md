@@ -2,7 +2,7 @@
 <br />
 A web front-end Developer 🚀 from China and I am glad to meet you!
 <br />
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+  <img align="right" alt="GIF" src="./img/code.gif" />
 
 ### 📝 Worked language
 

@@ -18,5 +18,3 @@ A web front-end Developer 🚀 from China and I am glad to meet you!
 ### 📮 Other
 
 [📌 My Blog - 庭树](http://arsizes.com/)
-
-![my github stats](https://github-readme-stats.vercel.app/api?username=arsize&show_icons=true&hide_border=true)

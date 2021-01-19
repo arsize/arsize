@@ -8,11 +8,10 @@ A web front-end Developer 🚀 from China and I am glad to meet you!
 
 - ✅ JavaScript / TypeScript / ...
 - ✅ Vue.js / React.js / ...
-- ✅ Node.js / Python / ...
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning Rust/Flutter.
+- 🌱 I’m currently learning Go/Flutter.
 - 😜 focusing on front-end and any other repos.
 
 ### 📮 Other

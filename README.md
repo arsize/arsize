@@ -1,8 +1,7 @@
 ### Hey 👋🏽, I'm [Arsize!](http://arsizes.com/)
 <br />
 A web front-end Developer 🚀 from China and I am glad to meet you!
-<br />
-  <img align="right" alt="GIF" src="./img/code.gif" />
+<img align="right" alt="GIF" src="./img/code.gif" />
 
 ### 📝 Worked language
 

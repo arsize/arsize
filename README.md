@@ -13,7 +13,3 @@ A web front-end Developer 🚀 from China and I am glad to meet you!
 
 - 🌱 I’m currently learning Go/Rust/Flutter.
 - 😜 focusing on front-end and any other repos.
-
-### 📮 Other
-
-[📌 My Blog - 街角巷](http://arsizes.com/)

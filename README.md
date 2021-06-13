@@ -1,13 +1,17 @@
-### Hey 👋🏽, I'm [Arsize!](http://arsizes.com/)
-<br />
-A web front-end Developer 🚀 from China and I am glad to meet you!
 
-### 📝 Worked language
+<main style="float: left;">
+  <p>My name is Arsize (亦然).</p>
+  <p>If you want to know more about me, you can visit <a href="https://www.yuque.com/arsize" target="_blank">https://www.yuque.com/arsize</a> .</p>
+</main>
 
-- ✅ JavaScript / TypeScript / ...
-- ✅ Vue.js / React.js / ...
+![](https://komarev.com/ghpvc/?username=arsize)
 
-**Talking about Personal Stuffs:**
-
-- 🌱 I’m currently learning Go/Rust/Flutter.
-- 😜 focusing on front-end and any other repos.
+<table align="center">
+<tr>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api?username=arsize&show_icons=true&count_private=true" />
+  </td>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsize&layout=compact" />
+  </td>
+</tr>

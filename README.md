@@ -1,6 +1,6 @@
 
 <main style="float: left;">
-  <p>My name is Arsize (亦然).</p>
+  <p>Hi, I'm Arsize (亦然).</p>
   <p>If you want to know more about me, you can visit <a href="https://www.yuque.com/arsize" target="_blank">https://www.yuque.com/arsize</a> .</p>
 </main>
 

@@ -10,7 +10,7 @@
 <table align="center">
 <tr>
   <td>
-    <img src="https://github-readme-stats.vercel.app/api?username=arsize&show_icons=true&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=arsize&show_icons=true&count_private=true" data-set="123" />
   </td>
   <td>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsize&layout=compact" />
